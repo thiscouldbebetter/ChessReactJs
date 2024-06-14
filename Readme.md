@@ -3,7 +3,7 @@ Chess ReactJS
 
 A simple chess set for two human players implemented in ReactJS as a learning exercise.
 
-<img src="Screnshot.png"/>
+<img src="Screenshot.png"/>
 
 The pieces can be moved around the board by clicking a square containing a piece
 and then clicking on any other square.
@@ -26,7 +26,7 @@ of this repository (assuming that npm was installed beforehand):
 	create-react-app react-app
 
 Then the automatically generated .git directory was deleted to make it possible
-to create a different Git repository in a containing directory.
+to create a different Git repository in a containing directory.x
 
 
 Running
