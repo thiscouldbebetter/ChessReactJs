@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   width="18.657291"
+   height="18.829195"
+   id="svg2"
+   sodipodi:docname="Bishop.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <g
+     transform="matrix(0.53876155,0,0,0.53881934,-143.83372,-539.4115)"
+     id="g3010">
+    <path
+       d="m 270.786,1032.414 c 3.385,-0.972 10.115,0.431 13.5,-2 3.385,2.431 10.115,1.028 13.5,2 0,0 1.646,0.542 3,2 -0.677,0.972 -1.646,0.986 -3,0.5 -3.385,-0.972 -10.115,0.458 -13.5,-1 -3.385,1.458 -10.115,0.028 -13.5,1 -1.354,0.486 -2.323,0.472 -3,-0.5 1.354,-1.944 3,-2 3,-2 z"
+       id="path2996"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.63;stroke-linejoin:round" />
+    <path
+       d="m 276.786,1028.414 c 2.5,2.5 12.5,2.5 15,0 0.5,-1.5 0,-2 0,-2 0,-2.5 -2.5,-4 -2.5,-4 5.5,-1.5 6,-11.5 -5,-15.5 -11,4 -10.5,14 -5,15.5 0,0 -2.5,1.5 -2.5,4 0,0 -0.5,0.5 0,2 z"
+       id="path2998"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.63;stroke-linejoin:round" />
+    <path
+       d="m 286.786,1004.414 c 0,1.381 -1.119,2.5 -2.5,2.5 -1.381,0 -2.5,-1.119 -2.5,-2.5 0,-1.381 1.119,-2.5 2.5,-2.5 1.38,0 2.5,1.12 2.5,2.5 z"
+       id="path3000"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.63;stroke-linejoin:round" />
+    <path
+       d="m 279.286,1022.414 h 10"
+       id="path3002"
+       style="fill:none;stroke:#000000;stroke-width:1.63" />
+    <path
+       d="m 276.786,1026.414 h 15"
+       id="path3004"
+       style="fill:none;stroke:#000000;stroke-width:1.63" />
+    <path
+       d="m 284.286,1011.914 v 5"
+       id="path3006"
+       style="fill:none;stroke:#000000;stroke-width:1.63;stroke-linecap:round" />
+    <path
+       d="m 281.786,1014.414 h 5"
+       id="path3008"
+       style="fill:none;stroke:#000000;stroke-width:1.63;stroke-linecap:round" />
+  </g>
+</svg>
