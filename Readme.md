@@ -8,11 +8,10 @@ A simple chess set for two human players implemented in ReactJS as a learning ex
 The pieces can be moved around the board by clicking a square containing a piece
 and then clicking on any other square.
 
-As of this writing, the system enforces no rules on whose turn it is to move,
-nor places any restrictions on the squares to which a selected piece can move.
-Any piece can move to any other square on the board, and,
-if there is another piece already occupying the destination square,
-the target piece will be removed from the board, even if it belongs to the same player.
+As of this writing, many of the rules of chess are implemented, but not all.
+Only pieces belonging to the player whose turn it is may move.  All the pieces except
+the pawn have restrictions on how they may move and/or capture in place.
+Castling, capturing en passant, and pawn promotion are not yet supported.
 
 
 Origin
